@@ -73,7 +73,7 @@ export function IntentBuilder({ onCreateIntent }: IntentBuilderProps) {
             </span>
           </div>
           <h1 className="max-w-2xl text-3xl font-semibold leading-tight text-white sm:text-4xl">
-            Intent Checkout Demo
+            Intent Mesh Labs
           </h1>
           <p className="mt-3 max-w-2xl text-base leading-7 text-slate-300">
             A lightweight LI.FI Intents Mini Builder Challenge demo that moves the conversation from

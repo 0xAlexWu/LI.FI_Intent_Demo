@@ -1,4 +1,4 @@
-# Intent Checkout Demo — From Routes to Outcomes
+# Intent Mesh Labs — From Routes to Outcomes
 
 A polished, lightweight developer education demo for the LI.FI Intents Mini Builder Challenge.
 

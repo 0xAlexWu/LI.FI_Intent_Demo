@@ -490,9 +490,9 @@ export default function Home() {
               <span className="absolute -right-1 -top-1 h-3 w-3 rounded-full bg-[#ccff58] shadow-[0_0_18px_rgba(204,255,88,0.9)]" />
             </div>
             <div className="min-w-0">
-              <p className="truncate text-sm font-semibold text-slate-950">Intent Checkout Demo</p>
+              <p className="truncate text-sm font-semibold text-slate-950">Intent Mesh Labs</p>
               <p className="truncate text-xs font-medium text-slate-500">
-                从路线选择到结果表达 / From routes to outcomes
+                {primaryText(locale, "从路线选择到结果表达", "From routes to outcomes")}
               </p>
             </div>
           </div>

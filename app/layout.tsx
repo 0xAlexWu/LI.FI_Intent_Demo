@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Intent Checkout Demo",
+  title: "Intent Mesh Labs",
   description: "A lightweight LI.FI Intents education demo from routes to outcomes."
 };
 
